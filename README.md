@@ -1,1 +1,1 @@
-# redis-docker
+# docker compose for redis
